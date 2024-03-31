@@ -1,6 +1,6 @@
 function Contact() {
     return ( 
-    <div className="container">
+    <div>
         <h1>Hello from Contact page</h1>
    <h3>We’re thrilled that you’ve explored our culinary haven! </h3>
 
