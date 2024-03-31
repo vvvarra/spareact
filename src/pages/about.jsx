@@ -1,6 +1,6 @@
 function About() {
     return (
-        <div className="container">
+        <div>
             <h1>Hello from About page</h1>
             <h3>Welcome to Simply Recipes!</h3>
             <div className="recall">
